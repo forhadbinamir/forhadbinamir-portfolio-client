@@ -1,5 +1,4 @@
 import React from 'react';
-import project1 from '../../Images/projects/project-1.png'
 const MyProject = () => {
 
 
