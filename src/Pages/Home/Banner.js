@@ -23,7 +23,7 @@ const Banner = () => {
                         wrapper="p"
                     />
                     <p className="py-6 text-sm text-gray-400">My goal is to obtain employment with a company where I can acquire skills, knowledge, and experiences for a better career. I am seeking an opportunity with my interpersonal communication skills and sense of good organizational behavior. My goal is to succeed in an environment that challenges me and offers me advancement opportunities. I am committed to working under pressure and working as part of a team.</p>
-                    <button className="btn btn-outline text-white"><a href="https://drive.google.com/file/d/1eeR0NDvHvNcjlQkYH7SvzdOxa6C_ZXKR/view?usp=sharing" target="_blank" rel="noopener noreferrer">Get Resume</a></button>
+                    <button className="btn btn-outline text-white"><a href="https://drive.google.com/file/d/17wsuVaItRinLrCcq994V1JsCoZfnvHz8/view?usp=sharing" target="_blank" rel="noopener noreferrer">Get Resume</a></button>
                 </div>
 
             </div>

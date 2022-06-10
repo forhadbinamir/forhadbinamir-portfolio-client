@@ -5,6 +5,7 @@ const Navbar = () => {
     const navMenu = <>
         < Link className='mr-3' to='/home' > Home</Link>
         < Link className='mr-3' to='/about' > About</Link>
+        < Link className='mr-3' to='/project' > Projects</Link>
         < Link className='mr-3' to='/contact' > Contact</Link>
 
     </>
@@ -20,7 +21,7 @@ const Navbar = () => {
                             {navMenu}
                         </ul>
                     </div>
-                    <a className="btn btn-ghost normal-case text-xl"><img className='h-16' src={logo} alt="" /></a>
+                    <Link to='/' className="btn btn-ghost normal-case text-xl"><img className='h-16' src={logo} alt="" /></Link>
                 </div>
                 <div className="navbar-center hidden lg:flex">
                     <ul className="menu menu-horizontal p-0">
@@ -29,7 +30,7 @@ const Navbar = () => {
                     </ul>
                 </div>
                 <div className="navbar-end">
-                    <a href='https://drive.google.com/file/d/1eeR0NDvHvNcjlQkYH7SvzdOxa6C_ZXKR/view?usp=sharing' className="btn btn-outline text-white" target='_blank' >Get Resume</a>
+                    <a href='https://drive.google.com/file/d/17wsuVaItRinLrCcq994V1JsCoZfnvHz8/view?usp=sharing' className="btn btn-outline text-white" target='_blank' >Get Resume</a>
                 </div>
             </div>
         </div>
