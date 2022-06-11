@@ -7,6 +7,7 @@
         "picture2": "https://i.ibb.co/gRf0dMp/Screenshot-2.png",
         "picture3": "https://i.ibb.co/w4JNGhy/Screenshot-3.png",
         "picture4": "https://i.ibb.co/L8XbkDX/Screenshot-28.png",
+        "picture5": "https://i.ibb.co/KFkdtF8/Screenshot-4.png",
         "features": [
             {
                 "feature1": "login authentication for user and admin integrated using firebase",
@@ -21,12 +22,14 @@
     },
     {
         "id": "62a3d3af568e23308cd02b74",
-        "liveSite": "https://warehouse-management-sys-a95b8.web.app/",
+        "liveSite": "https://creative-agency-live.netlify.app/",
         "picture": "https://i.ibb.co/hFkfb96/project-2.png",
-        "picture1": "http://placehold.it/32x32",
-        "picture2": "http://placehold.it/32x32",
-        "picture3": "http://placehold.it/32x32",
-        "picture4": "http://placehold.it/32x32",
+        "picture1": "https://i.ibb.co/BVKR8Xh/Screenshot-5.png",
+        "picture2": "https://i.ibb.co/Vpp8MqR/Screenshot-6.png",
+        "picture3": "https://i.ibb.co/qMs1KdC/Screenshot-7.png",
+        "picture4": "https://i.ibb.co/gZdKmC4/Screenshot-8.png",
+        "picture5": "https://i.ibb.co/nMf4zbm/Screenshot-9.png",
+        "picture6": "https://i.ibb.co/jrRmr85/Screenshot-10.png",
         "features": [
             {
                 "feature1": "login authentication for user and admin integrated using firebase",
@@ -43,10 +46,12 @@
         "id": "62a3d3af15d247e5a700395f",
         "liveSite": "https://manufacturer-website-9828b.web.app/",
         "picture": "https://i.ibb.co/xzdtFrG/project-3.png",
-        "picture1": "http://placehold.it/32x32",
-        "picture2": "http://placehold.it/32x32",
-        "picture3": "http://placehold.it/32x32",
-        "picture4": "http://placehold.it/32x32",
+        "picture1": "https://i.ibb.co/z2fLmWL/Screenshot-17.png",
+        "picture2": "https://i.ibb.co/3v8C244/Screenshot-18.png",
+        "picture3": "https://i.ibb.co/zH6jqr8/Screenshot-20.png",
+        "picture4": "https://i.ibb.co/7CNVCwx/Screenshot-21.png",
+        "picture5": "https://i.ibb.co/Q6fQ40P/Screenshot-22.png",
+        "picture6": "https://i.ibb.co/5BkVVHt/Screenshot-23.png",
         "features": [
             {
                 "feature1": "login authentication for user and admin integrated using firebase",
@@ -63,10 +68,12 @@
         "id": "62a3d3afa2ebf39df155a68b",
         "liveSite": "https://warehouse-management-sys-a95b8.web.app/",
         "picture": "https://i.ibb.co/h2d3xMM/project-4.png",
-        "picture1": "http://placehold.it/32x32",
-        "picture2": "http://placehold.it/32x32",
-        "picture3": "http://placehold.it/32x32",
-        "picture4": "http://placehold.it/32x32",
+        "picture1": "https://i.ibb.co/C54mZrF/Screenshot-11.png",
+        "picture2": "https://i.ibb.co/rvrpwH6/Screenshot-12.png",
+        "picture3": "https://i.ibb.co/myH6PJ7/Screenshot-13.png",
+        "picture4": "https://i.ibb.co/SfZDKq5/Screenshot-14.png",
+        "picture5": "https://i.ibb.co/sbj4y3s/Screenshot-15.png",
+        "picture6": "https://i.ibb.co/xh6XgkH/Screenshot-16.png",
         "features": [
             {
                 "feature1": "login authentication for user and admin integrated using firebase",
