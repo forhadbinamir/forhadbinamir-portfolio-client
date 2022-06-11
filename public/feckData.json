@@ -1,0 +1,82 @@
+[
+    {
+        "id": "62a3d3af5a6c702a2cf50afa",
+        "liveSite": "https://independent-service-prov-9c01e.web.app/",
+        "picture": "https://i.ibb.co/rmtczyX/project-1.png",
+        "picture1": "https://i.ibb.co/DrZyqk9/Screenshot-1.png",
+        "picture2": "https://i.ibb.co/gRf0dMp/Screenshot-2.png",
+        "picture3": "https://i.ibb.co/w4JNGhy/Screenshot-3.png",
+        "picture4": "https://i.ibb.co/L8XbkDX/Screenshot-28.png",
+        "features": [
+            {
+                "feature1": "login authentication for user and admin integrated using firebase",
+                "feature2": "User can see tha product details",
+                "feature3": "Payment method is added using Stripe",
+                "feature4": "Both user and admin can update profile",
+                "feature5": "Users can manage orders and also cancel them",
+                "feature6": " Admin can give set the role of other users to admin"
+            }
+        ],
+        "description": "Fugiat non laborum minim magna officia fugiat reprehenderit do. Nostrud sunt elit adipisicing consequat ipsum non officia deserunt pariatur commodo anim officia. Lorem cupidatat ullamco irure eu aliquip qui labore proident. Id laboris nulla voluptate labore quis enim consequat nostrud ad amet veniam magna velit voluptate.\r\n"
+    },
+    {
+        "id": "62a3d3af568e23308cd02b74",
+        "liveSite": "https://warehouse-management-sys-a95b8.web.app/",
+        "picture": "https://i.ibb.co/hFkfb96/project-2.png",
+        "picture1": "http://placehold.it/32x32",
+        "picture2": "http://placehold.it/32x32",
+        "picture3": "http://placehold.it/32x32",
+        "picture4": "http://placehold.it/32x32",
+        "features": [
+            {
+                "feature1": "login authentication for user and admin integrated using firebase",
+                "feature2": "User can see tha product details",
+                "feature3": "Payment method is added using Stripe",
+                "feature4": "Both user and admin can update profile",
+                "feature5": "Users can manage orders and also cancel them",
+                "feature6": " Admin can give set the role of other users to admin"
+            }
+        ],
+        "description": "Est id anim esse est culpa enim velit dolore ex veniam qui sunt ut et. Consectetur pariatur adipisicing velit sunt et proident. Consequat ullamco velit aliquip dolor mollit esse proident exercitation ipsum labore.\r\n"
+    },
+    {
+        "id": "62a3d3af15d247e5a700395f",
+        "liveSite": "https://manufacturer-website-9828b.web.app/",
+        "picture": "https://i.ibb.co/xzdtFrG/project-3.png",
+        "picture1": "http://placehold.it/32x32",
+        "picture2": "http://placehold.it/32x32",
+        "picture3": "http://placehold.it/32x32",
+        "picture4": "http://placehold.it/32x32",
+        "features": [
+            {
+                "feature1": "login authentication for user and admin integrated using firebase",
+                "feature2": "User can see tha product details",
+                "feature3": "Payment method is added using Stripe",
+                "feature4": "Both user and admin can update profile",
+                "feature5": "Users can manage orders and also cancel them",
+                "feature6": " Admin can give set the role of other users to admin"
+            }
+        ],
+        "description": "Tempor pariatur proident do proident tempor sint. Ad nisi et deserunt irure. Aliquip id magna consequat ullamco nisi qui velit. Magna laboris sint Lorem reprehenderit excepteur amet irure sit minim excepteur. Exercitation voluptate culpa qui id proident eiusmod aliquip magna do dolore id.\r\n"
+    },
+    {
+        "id": "62a3d3afa2ebf39df155a68b",
+        "liveSite": "https://warehouse-management-sys-a95b8.web.app/",
+        "picture": "https://i.ibb.co/h2d3xMM/project-4.png",
+        "picture1": "http://placehold.it/32x32",
+        "picture2": "http://placehold.it/32x32",
+        "picture3": "http://placehold.it/32x32",
+        "picture4": "http://placehold.it/32x32",
+        "features": [
+            {
+                "feature1": "login authentication for user and admin integrated using firebase",
+                "feature2": "User can see tha product details",
+                "feature3": "Payment method is added using Stripe",
+                "feature4": "Both user and admin can update profile",
+                "feature5": "Users can manage orders and also cancel them",
+                "feature6": " Admin can give set the role of other users to admin"
+            }
+        ],
+        "description": "Veniam minim nostrud officia ad ut qui id id labore fugiat mollit adipisicing nisi. Ut ullamco in adipisicing laborum. Commodo nisi deserunt ipsum aliquip. Ea voluptate incididunt voluptate est elit mollit ipsum aliqua. Incididunt esse aliqua occaecat aute.\r\n"
+    }
+]

@@ -3,10 +3,14 @@ import './Banner.css'
 import bg from '../../Images/banner-bg.jpg'
 import myPicture from '../../Images/Forhad Hossain.jpg'
 import Typical from 'react-typical'
+import { Helmet } from 'react-helmet-async';
 const Banner = () => {
     return (
         <div style={{ backgroundImage: `url(${bg})` }} className='w-full min-h-screen  bg-[100vh] bg-no-repeat bg-cover'>
 
+            <Helmet>
+                <title>Home - Forhad Bin Amir</title>
+            </Helmet>
             {/* <div className="overlay"></div> */}
             <div className="content w-full h-full flex flex-col-reverse md:flex-row-reverse py-16 px-4 gap-5 hero">
 

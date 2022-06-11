@@ -3,10 +3,10 @@ import { Link } from 'react-router-dom';
 import logo from '../../Images/logo-1.png'
 const Navbar = () => {
     const navMenu = <>
-        < Link className='mr-3' to='/home' > Home</Link>
-        < Link className='mr-3' to='/about' > About</Link>
-        < Link className='mr-3' to='/project' > Projects</Link>
-        < Link className='mr-3' to='/contact' > Contact</Link>
+        < Link className='mr-3 hover:text-orange-500 hover:border-b py-1' to='/home' > Home</Link>
+        < Link className='mr-3 hover:text-orange-500 hover:border-b py-1' to='/about' > About</Link>
+        < Link className='mr-3 hover:text-orange-500 hover:border-b py-1' to='/project' > Projects</Link>
+        < Link className='mr-3 hover:text-orange-500 hover:border-b py-1' to='/contact' > Contact</Link>
 
     </>
     return (

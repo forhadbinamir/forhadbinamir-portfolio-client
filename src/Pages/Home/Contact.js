@@ -2,6 +2,7 @@ import React, { useRef } from 'react';
 import formImg from '../../Images/form.svg'
 import emailjs from '@emailjs/browser';
 import { toast } from 'react-toastify';
+import { Helmet } from 'react-helmet-async';
 const Contact = () => {
     const form = useRef();
 
@@ -18,6 +19,9 @@ const Contact = () => {
     };
     return (
         <div className='bg-slate-900'>
+            <Helmet>
+                <title>Home - Forhad Bin Amir</title>
+            </Helmet>
             <h2 className='text-5xl text-orange-500 p-3 text-center font-bold'>Contact <span className='text-white'>Me</span></h2>
             <div className="hero min-h-screen ">
 
