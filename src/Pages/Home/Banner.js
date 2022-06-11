@@ -6,13 +6,13 @@ import Typical from 'react-typical'
 import { Helmet } from 'react-helmet-async';
 const Banner = () => {
     return (
-        <div style={{ backgroundImage: `url(${bg})` }} className='w-full min-h-screen  bg-[100vh] bg-no-repeat bg-cover'>
+        <div style={{ backgroundImage: `url(${bg})` }} className='w-full min-h-screen  bg-[100vh] bg-no-repeat bg-cover relative'>
 
             <Helmet>
                 <title>Home - Forhad Bin Amir</title>
             </Helmet>
-            {/* <div className="overlay"></div> */}
-            <div className="content w-full h-full flex flex-col-reverse md:flex-row-reverse py-16 px-4 gap-5 hero">
+            <div className="overlay z-10 "></div>
+            <div className="content w-full h-full flex flex-col-reverse md:flex-row-reverse py-16 px-4 gap-5 relative z-20">
 
                 <div className='flex-1 '>
                     <img src={myPicture} className="w-[300px] h-[300px] md:h-full mx-auto object-cover rounded-lg shadow-2xl" alt='' />
